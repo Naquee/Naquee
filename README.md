@@ -31,7 +31,7 @@
 <br>
   <h2><i>My GitHub Stats</i></h2>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlishaMohasin&show_icons=true&locale=en&layout=compact" alt="AlishaMohasin" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= Md Naquee Alam&show_icons=true&locale=en&layout=compact" alt="AlishaMohasin" /></p>
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlishaMohasin&show_icons=true&locale=en" alt="AlishaMohasin" /></p>
 
