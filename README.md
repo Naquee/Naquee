@@ -33,6 +33,6 @@
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= Md Naquee Alam&show_icons=true&locale=en&layout=compact" alt="Md Naquee Alam" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md Naquee Alam&show_icons=true&locale=en" alt="Md Naquee Alam" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naquee&show_icons=true&locale=en" alt="Naquee" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naquee" alt="Naquee" /></p>
